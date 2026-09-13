@@ -15,7 +15,7 @@ title: Вступ
   : [[youtube](https://www.youtube.com/watch?v=Y4UZNc4eh4U)]
 
 : **ПР #1**{: .label .label-purple} **Q-навчання**
-  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1/practice1.pdf)]
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1/lab1.pdf)]
     : **Дедлайн**: 28 вересня
 
 <!-- 07 жов
