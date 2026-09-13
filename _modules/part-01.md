@@ -7,20 +7,18 @@ title: Вступ
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)]
 
-<!--  16-23 вер
+14 вер
 : **Лекція 1**{: .label .label-green } **Вступ до RL**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
 : **Матеріал**{: .label .label-red}**The Increasing Role of Sensorimotor Experience in AI**
   : [[youtube](https://www.youtube.com/watch?v=Y4UZNc4eh4U)]
 
-
-23 вер
 : **ПР #1**{: .label .label-purple} **Q-навчання**
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1/practice1.pdf)]
-    : **Дедлайн**: 12 жовтня
+    : **Дедлайн**: 28 вересня
 
-07 жов
+<!-- 07 жов
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
